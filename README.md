@@ -34,6 +34,3 @@ In this book, machine learning algorithms are implemented in the MATLAB environm
 * [MATLAB Graphics and Data Visualization Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/matlab-graphics-and-data-visualization-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781849693165)
 
 * [Rapid BeagleBoard Prototyping with MATLAB and Simulink](https://www.packtpub.com/hardware-and-creative/rapid-beagleboard-prototyping-matlab-and-simulink?utm_source=github&utm_medium=repository&utm_campaign=9781849696043)
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
